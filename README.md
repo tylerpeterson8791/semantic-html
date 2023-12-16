@@ -38,3 +38,5 @@ W3 School is a great resource.
 Working on the mini project with Alex was really helpful, he was a wealth of information even in the small time we spent together on that.
 
 Finally, Katy and Ben are doing a great job getting through the material and being available and patient.  Well done so far!
+
+# All code and assets are available for review at https://github.com/tylerpeterson8791/semantic-html/tree/main
